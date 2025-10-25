@@ -43,7 +43,7 @@ For each of these commands, you can continue to pass through additional argument
 
 ### cpx check
 
-`cpx check` (or the aliases `cpx analyze` or `cpx analyse`) runs a static analysis tool on your codebase (e.g. PHPStan, Psalm or Phan).
+`cpx check` (or the aliases `cpx analyze` or `cpx analyse`) runs a static analysis tool on your codebase (PHPStan **or** Psalm **or** Phan).
 
 ### cpx format
 
